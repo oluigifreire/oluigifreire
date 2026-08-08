@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cabeçalho espacial de Luigi B. Freire](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:312E81,100:06B6D4&text=Luigi%20B.%20Freire&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=FIAP%20CS%20Student%20%7C%20AI%20%7C%20Agents%20%7C%20Harness%20%7C%20SaaS&descAlignY=60&descSize=17&animation=fadeIn)
+![Cabeçalho espacial de Luigi B. Freire](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:312E81,100:06B6D4&text=Luigi%20B.%20Freire&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=FIAP%20CS%20Student%20%7C%20AI%20%7C%20Agents%20%7C%20Harness%20%7C%20SaaS%20%7C%20Growth&descAlignY=60&descSize=17&animation=fadeIn)
 
 ### Entre estratégia, tecnologia e escala.
 
