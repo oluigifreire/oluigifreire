@@ -13,7 +13,7 @@ Transformando problemas reais em produtos digitais, automações e soluções in
 
 ---
 
-<img align="right" width="285" src="assets/octocat.gif" alt="Octocat personalizado de Luigi B. Freire segurando uma xícara" />
+<img align="right" width="285" src="octocat.gif" alt="Octocat personalizado de Luigi B. Freire segurando uma xícara" />
 
 ## Sobre mim
 
