@@ -15,7 +15,7 @@ Transformando problemas reais em produtos digitais, automações e soluções in
 
 ## Sobre mim
 
-<img align="right" width="285" src="octocat.gif.gif" alt="Octocat personalizado de Luigi B. Freire segurando uma xícara" />
+<img align="right" width="285" src="octocat gif.gif" alt="Octocat personalizado de Luigi B. Freire segurando uma xícara" />
 
 Sou estudante de **Ciência da Computação na FIAP** e gosto de compreender o quadro completo: do modelo de negócio, aquisição e vendas à construção da solução que chega ao usuário.
 
