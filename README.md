@@ -19,7 +19,7 @@ Transformando problemas reais em produtos digitais, automações e soluções in
 
 Sou estudante de **Ciência da Computação na FIAP** e gosto de compreender o quadro completo: do modelo de negócio, aquisição e vendas à construção da solução que chega ao usuário.
 
-Minha trajetória começou com projetos de **Marketing e Growth para PMEs**, envolvendo anúncios, otimização de funis, análise de métricas, fidelização, vendas, design e automações no-code/low-code. Hoje, aprofundo essa visão estudando **Inteligência Artificial, agentes, harnesses, algoritmos e produtos SaaS**.
+Minha trajetória começou com projetos de **Marketing e Growth para PMEs**, envolvendo anúncios, otimização de funis, análise de métricas, fidelização, vendas, design e automações no-code/low-code. Hoje, aprofundo essa visão estudando **Inteligência Artificial, agentes, algoritmos e SaaS**.
 
 Busco unir visão estratégica e capacidade técnica para desenvolver soluções que sejam não apenas interessantes, mas **úteis, viáveis e escaláveis**.
 
@@ -27,15 +27,11 @@ Busco unir visão estratégica e capacidade técnica para desenvolver soluções
 
 ## Atualmente estou...
 
-```text
-NEGÓCIO  →  PROBLEMA  →  EXPERIÊNCIA  →  TECNOLOGIA  →  AUTOMAÇÃO  →  ESCALA
-```
-
 - 🎓 Cursando Ciência da Computação na **FIAP**.
 - 🤖 Testando modelos de IA, agentes e diferentes estruturas de harness.
 - 🧠 Estudando algoritmos com foco em soluções eficientes e escaláveis.
-- 🎨 Explorando web design, landing pages e fundamentos de UX/UI.
-- 🚀 Estudando modelos de negócio com foco especial em produtos SaaS.
+- 🎨 Explorando web/app design e fundamentos de UX/UI.
+- 🚀 Estudando modelos de negócio com foco especial em SaaS.
 - 🌱 Procurando oportunidades de estágio, negócios e times que resolvam problemas reais.
 
 ## Projetos em destaque
@@ -63,7 +59,7 @@ NEGÓCIO  →  PROBLEMA  →  EXPERIÊNCIA  →  TECNOLOGIA  →  AUTOMAÇÃO  �
 
 | Área | Tecnologias, ferramentas e conhecimentos |
 |---|---|
-| **IA & Agentes** | Modelos de linguagem, agentes, harnesses, prompting, tool calling, OpenAI API e Gemini |
+| **IA & Agentes** | Modelos de linguagem, agentes, harness, prompting, tool calling, RAGs e APIs |
 | **Código & Dados** | Python, algoritmos, JSON, análise de dados, Plotly e Google Colab |
 | **Automação** | Make, n8n e fluxos no-code/low-code |
 | **Produto & Design** | SaaS, landing pages, UX/UI, websites, VSLs e Canva |
